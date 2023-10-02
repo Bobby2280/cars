@@ -1,0 +1,80 @@
+body {
+    font-family: 'Staatliches', cursive;
+}
+.container {
+text-align: center;
+color: rgb(255, 255, 255);
+background-image: url(https://media.autoexpress.co.uk/image/private/s--8XwXznt4--/v1675358629/evo/2023/02/AC%20Schnitzer%20BMW%20M3%20Touring-9.jpg);
+width: 100%;
+min-height: 100vh;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+h1 {
+font-size: 50px;
+}
+p {
+font-size: 20px;
+}
+a {
+display: inline-block;
+padding:10px ;
+background-color: rgb(128, 204, 209);
+border-radius: 10px;
+text-decoration: none;
+}
+.second {
+background-image: url(https://static.foxnews.com/foxnews.com/content/uploads/2022/09/dark-race-cars.jpg);
+background-attachment: fixed;
+flex-direction: row;
+gap: 25px;
+}
+.item {
+display: flex;
+max-width: 320px;
+background-color: rgb(38, 45, 52);
+flex-direction: column;
+align-items: center;
+border-radius: 20px;
+}
+.img-first {
+background-image: url(https://www.performanceracing.com/sites/default/files/styles/article_full/public/2020-12/1-Holley.003_bailey_racing_sick_second_launch.LarryChenPhoto.jpg?itok=svEKrXRt);
+}
+.img-second {
+background-image: url(https://sr20.driftworks.com/blog/wp-content/uploads/2009/08/11138645_10153753530238448_9033605173728572936_n.jpg);
+}
+.img-third {
+background-image: url(https://cdn-2.motorsport.com/images/amp/YBeDbwl2/s1000/esapekka-lappi-janne-ferm-hyun.jpg);
+}
+.img {
+width: 90%;
+height: 200px;
+background-color: azure;
+background-size: cover;
+background-position: center;
+margin-top: 20px;
+border-radius: 10px;
+}
+h3 {
+font-size: 30px;
+
+}
+p {
+max-width:52ch ;
+padding: 15px;
+}
+.riska {
+width:100%;
+min-height: 60px;
+background-color: rgb(56, 58, 58);
+box-shadow: 10px 10px 10px 0px;
+}
+
+
+
